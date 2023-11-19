@@ -12,8 +12,7 @@ You can run the main Notebook in your Browser using the next icons.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-plasma-science/blob/main/pythonBasics.ipynb)   
 
   * Langmuir Probe PW Fitting:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/bernardocarvalho/python-plasma-science/blob/main/LangmuirFitting.ipynb)   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-plasma-science/blob/main/LangmuirFitting.ipynb)   
 
   * Resistance Fitting in Python: 
 [![Open Resistance Fitting](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-plasma-science/blob/main/ResistanceFitting.ipynb)   
